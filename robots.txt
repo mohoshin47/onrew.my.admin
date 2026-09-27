@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://onrew.my/sitemap.xml
